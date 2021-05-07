@@ -9,51 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educación
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Licenciado en Electrónica, Universidad Pedagógica Nacional, 2012
+* Ingeniero Electrónico, Universidad Cooperativa de Colombia, 2015
+* Candidato a Magíster en Ciencias de la Información y las Comunicaciones, Universidad Distrital Francisco José de Caldas, 2021
 
-Work experience
+Experiencia Laboral
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* "2019 - 2021: Consultor
+  * British Council
+  * Cargo: Mentor del programa "Coding For Kids"  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017 - 2021: Director de Infraestructura y Desarrollo
+  * Inttel Go S.A.S.
+  * Responsable de toda la operación de infraestructura de operaciones en telecomunicaciones de la empresa
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
