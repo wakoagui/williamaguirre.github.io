@@ -4,7 +4,7 @@ Bienvenidos a mi sitio WEB personal. Este sitio, se encuentra temporalmente dedi
 Personalización
 ======
 
-Este sitio se encuentrabasado en la plantilla [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) que utiliza parámetros básicos para la presentación de contenidos . El tema, se puede encontrar como una plantilla Jekyll muy sencilla de usar.
+Este sitio se encuentrabasado en la plantilla [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) que utiliza parámetros básicos para la presentación de contenidos. El tema, se puede encontrar como una plantilla Jekyll muy sencilla de usar.
 
 
 Para más información

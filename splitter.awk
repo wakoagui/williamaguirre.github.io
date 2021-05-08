@@ -26,4 +26,4 @@ if ( $0 ~ / endhighlight/)
 }
 }
 END {
-}	
+}
