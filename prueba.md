@@ -1,3 +1,3 @@
 This is a probe for spell check using Git hooks.
 
-Weare going to check for english words.
+Wea re goin to check for english words.
