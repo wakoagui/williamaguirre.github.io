@@ -9,7 +9,7 @@ Este sitio se encuentra basado en la plantilla [Minimal Mistakes Jekyll Theme](h
 
 Para más información
 ------
-Si desea tener más información para la configuración de un sitio basado en academicpages, puede visitar [la guía](https://academicpages.github.io/markdown/). También le puede interesar [guías para el tema de Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/configuration/), el cuál fue usado para generar este sitio.
+Si desea tener más información para la configuración de un sitio basado en academicpages, puede visitar [la guía](https://academicpages.github.io/markdown/). También le puede interesar [guías para el tema de Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/configuration/), el cuál fue usado para generar este sitio.                
 ---
 permalink: /
 title: "Sitio WEB personal"
