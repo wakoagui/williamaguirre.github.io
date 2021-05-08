@@ -1,0 +1,1 @@
+This is a probe for spell check using Git hooks
