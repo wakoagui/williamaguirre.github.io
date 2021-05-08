@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Bienvenidos a mi sitioWEB personal. Este sitio, se encuentra temporalmente dedicado al desarrollo de la materia Tendencias en Ingeniería de Software, de la Maestría en Ciencias de la Información y las Comunicaciones de la Universidad Distrital Francisco José de Caldas en Bogotá, Colombia.
+Bienvenidos a mi sitio WEB personal. Este sitio, se encuentra temporalmente dedicado al desarrollo de la materia Tendencias en Ingeniería de Software, de la Maestría en Ciencias de la Información y las Comunicaciones de la Universidad Distrital Francisco José de Caldas en Bogotá, Colombia.
 
 Personalización
 ======
