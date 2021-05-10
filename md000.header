@@ -1,21 +1,16 @@
 
-Bienvenidos a mi sitio WEB personal. Este sitio, se encuentra temporalmente dedicado al desarrollo de la materia Tendencias en Ingeniería de Software, de la Maestría en Ciencias de la Información y las Comunicaciones de la Universidad Distrital Francisco José de Caldas en Bogotá, Colombia.
+Sorry, but the page you were trying to view does not exist --- perhaps you can try searching for it below. 
 
-Personalización 
-======
-
-Este sitio se encuentra basado en la plantilla [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) que utiliza parámetros básicos para la presentación de contenidos. El tema, se puede encontrar como una plantilla Jekyll muy sencilla de usar.
-
-
-Para más información
-------
-Si desea tener más información para la configuración de un sitio basado en academicpages, puede visitar [la guía](https://academicpages.github.io/markdown/). También le puede interesar [guías para el tema de Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/configuration/), el cuál fue usado para generar este sitio.                
+<script type="text/javascript">
+  var GOOG_FIXURL_LANG = 'en';
+  var GOOG_FIXURL_SITE = '{{ site.url }}'
+</script>
+<script type="text/javascript"
+  src="//linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js">
+</script>
 ---
-permalink: /
-title: "Sitio WEB personal"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+title: "Page Not Found"
+excerpt: "Page not found. Your pixels are in another canvas."
+sitemap: false
+permalink: /404.html
 ---
